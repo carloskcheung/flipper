@@ -1,4 +1,5 @@
 # Flipper [![Build Status](https://travis-ci.org/facebook/flipper.svg?branch=master)](https://travis-ci.org/facebook/flipper)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcarloskcheung%2Fflipper.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcarloskcheung%2Fflipper?ref=badge_shield)
 
 Flipper (formerly Sonar) is a platform for debugging mobile apps on iOS and Android. Visualize, inspect, and control your apps from a simple desktop interface. Use Flipper as is or extend it using the plugin API.
 
@@ -22,6 +23,9 @@ Flipper (formerly Sonar) is a platform for debugging mobile apps on iOS and Andr
   - [Contributing](#contributing)
   - [License](#license)
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcarloskcheung%2Fflipper.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcarloskcheung%2Fflipper?ref=badge_large)
 
 ## Mobile development
 
